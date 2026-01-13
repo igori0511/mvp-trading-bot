@@ -1,29 +1,19 @@
----
-name: Stock Trading Bot MVP
-overview: Build a paper trading bot that uses technical analysis indicators (moving averages, RSI) to generate buy/sell signals on stocks, using Alpaca's free paper trading API.
-todos:
-  - id: setup
-    content: Create project structure and config with Alpaca API setup
-    status: pending
-  - id: data
-    content: Implement data fetcher for historical and real-time market data
-    status: pending
-  - id: indicators
-    content: Build technical indicators module (SMA, EMA, RSI, MACD)
-    status: pending
-  - id: signals
-    content: Create signal generation logic with configurable strategy
-    status: pending
-  - id: execution
-    content: Implement order manager and portfolio tracker
-    status: pending
-  - id: backtest
-    content: Add backtesting capability for strategy validation
-    status: pending
-  - id: monitoring
-    content: Add trade logging and simple dashboard
-    status: pending
----
+# Stock Trading Bot MVP
+
+**Overview:** Build a paper trading bot that uses technical analysis indicators (moving averages, RSI) to generate buy/sell signals on stocks, using Alpaca's free paper trading API.
+
+## Todos
+
+| ID         | Task Description                                                    | Status  |
+|------------|---------------------------------------------------------------------|---------|
+| setup      | Create project structure and config with Alpaca API setup           | pending |
+| data       | Implement data fetcher for historical and real-time market data     | pending |
+| indicators | Build technical indicators module (SMA, EMA, RSI, MACD)             | pending |
+| signals    | Create signal generation logic with configurable strategy           | pending |
+| execution  | Implement order manager and portfolio tracker                       | pending |
+| backtest   | Add backtesting capability for strategy validation                  | pending |
+| monitoring | Add trade logging and simple dashboard                              | pending |
+
 
 # Stock Trading Bot MVP Architecture
 
